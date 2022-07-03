@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\EntitesFrameworkDataAktarım\bin\Debug\EntitesFrameworkDataAktarım.exe.config
+C:\Users\Can\Desktop\EntitesFrameworkDataAktarım\bin\Debug\EntitesFrameworkDataAktarım.exe
+C:\Users\Can\Desktop\EntitesFrameworkDataAktarım\bin\Debug\EntitesFrameworkDataAktarım.pdb
+C:\Users\Can\Desktop\EntitesFrameworkDataAktarım\bin\Debug\EntityFramework.dll
+C:\Users\Can\Desktop\EntitesFrameworkDataAktarım\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Can\Desktop\EntitesFrameworkDataAktarım\bin\Debug\EntityFramework.xml
+C:\Users\Can\Desktop\EntitesFrameworkDataAktarım\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Can\Desktop\EntitesFrameworkDataAktarım\obj\Debug\EntitesFrameworkDataAktarım.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\EntitesFrameworkDataAktarım\obj\Debug\EntitesFrameworkDataAktarım.Form1.resources
+C:\Users\Can\Desktop\EntitesFrameworkDataAktarım\obj\Debug\EntitesFrameworkDataAktarım.Properties.Resources.resources
+C:\Users\Can\Desktop\EntitesFrameworkDataAktarım\obj\Debug\EntitesFrameworkDataAktarım.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\EntitesFrameworkDataAktarım\obj\Debug\EntitesFrameworkDataAktarım.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\EntitesFrameworkDataAktarım\obj\Debug\EntitesFrameworkDataAktarım.csproj.CopyComplete
+C:\Users\Can\Desktop\EntitesFrameworkDataAktarım\obj\Debug\EntitesFrameworkDataAktarım.exe
+C:\Users\Can\Desktop\EntitesFrameworkDataAktarım\obj\Debug\EntitesFrameworkDataAktarım.pdb
